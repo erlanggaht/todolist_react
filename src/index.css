@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button:active {
+    transform: scale(.90);
+ opacity: .90;
+}
